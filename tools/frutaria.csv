@@ -1,0 +1,6 @@
+PRODUTO,QUANTIDADE,PREÇO (R$),LINK,DISPONIBILIDADE,PAÍS,FILIAL,GERENTE
+Laranja,800," 1,20",https://www.exemplo.com/3,yes,Brasil,B,Maria Santos
+Abacaxi,555," 4,00",https://www.exemplo.com/4,no,Brasil,B,Maria Santos
+Limão,410," 1,50",https://www.exemplo.com/12,yes,Brasil,B,Maria Santos
+Melancia,400," 6,00",https://www.exemplo.com/13,no,Brasil,B,Maria Santos
+Jabuticaba,620," 3,70",https://www.exemplo.com/22,yes,Brasil,B,Maria Santos

@@ -1,0 +1,45 @@
+--------
+Produto: Laranja
+Quantidade: 800
+Preço:  1,20
+Link: https://www.exemplo.com/3
+Disponibilidade: yes
+País: Brasil
+Filial: B
+Gerente Maria Santos
+--------
+Produto: Abacaxi
+Quantidade: 555
+Preço:  4,00
+Link: https://www.exemplo.com/4
+Disponibilidade: no
+País: Brasil
+Filial: B
+Gerente Maria Santos
+--------
+Produto: Limão
+Quantidade: 410
+Preço:  1,50
+Link: https://www.exemplo.com/12
+Disponibilidade: yes
+País: Brasil
+Filial: B
+Gerente Maria Santos
+--------
+Produto: Melancia
+Quantidade: 400
+Preço:  6,00
+Link: https://www.exemplo.com/13
+Disponibilidade: no
+País: Brasil
+Filial: B
+Gerente Maria Santos
+--------
+Produto: Jabuticaba
+Quantidade: 620
+Preço:  3,70
+Link: https://www.exemplo.com/22
+Disponibilidade: yes
+País: Brasil
+Filial: B
+Gerente Maria Santos
